@@ -21,14 +21,14 @@ Each folder corresponds to a major topic in Calculus I. Within each folder you'l
 
 ```
 
-calculus-problem-sets/  
+Review/  
 ├── 01_functions/  
 │ ├── README.md  
-│ ├── domain-range.md  
+│ ├── Function Evaluation.ipynb  
 │ ├── images/  
-│ │ └── domain-example1.png  
+│ │ └── example1.png  
 │ └── ...  
-├── 02_limits/  
+├── 02_Inverse Functions/  
 │ ├── limit-definitions.md  
 │ ├── epsilon-delta-practice.md  
 │ └── ...  
