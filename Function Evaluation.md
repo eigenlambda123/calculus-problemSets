@@ -1,4 +1,4 @@
-
+# Function Evaluation
 #### Problem 1:
 
 **Given Function:**  
@@ -13,32 +13,26 @@ $$f(0) = 3 − 5(0) − 2(0)^2 = 3 − 0 − 0 = \boxed{3}$$
 **(c)** Find \( f(-3) \)  
 $$f(-3) = 3 − 5(-3) − 2(-3)^2 = 3 + 15 − 18 = \boxed{0}$$
 
-**(d)** Find \( f(6 − t) \)  
-$$
+**(d)** Find \( f(6 − t) \)  $$
 \begin{align*}
 f(6 − t) &= 3 − 5(6 − t) − 2(6 − t)^2 \\
 &= 3 − 30 + 5t − 72 + 24t − 2t^2 \\
 &= \boxed{-2t^2 + 29t - 99}
-\end{align*}
-$$
+\end{align*}$$
 
 **(e)** Find \( f(7 − 4x) \)  
-$$
-\begin{align*}
+$$\begin{align*}
 f(7 − 4x) &= 3 − 5(7 − 4x) − 2(7 − 4x)^2 \\
 &= 3 − 35 + 20x − 98 + 112x − 32x^2 \\
 &= \boxed{-32x^2 + 132x - 130}
-\end{align*}
-$$
+\end{align*}$$
 
 **(f)** Find \( f(x + h) \)  
-$$
-\begin{align*}
+$$\begin{align*}
 f(x + h) &= 3 − 5(x + h) − 2(x + h)^2 \\
 &= 3 − 5x − 5h − 2x^2 − 4xh − 2h^2 \\
 &= \boxed{-2x^2 − 4xh − 2h^2 − 5x − 5h + 3}
-\end{align*}
-$$
+\end{align*}$$
 
 ---
 
