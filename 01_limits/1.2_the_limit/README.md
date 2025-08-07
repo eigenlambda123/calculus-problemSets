@@ -51,9 +51,7 @@ $$
 4. **Conclude**
    If the values from both sides approach the same number \$L\$, write:
 
-   $$
-   \lim_{x \to a} f(x) = L
-   $$
+   $$\lim_{x \to a} f(x) = L$$
 
    If they approach different values, the limit **does not exist**.
 
