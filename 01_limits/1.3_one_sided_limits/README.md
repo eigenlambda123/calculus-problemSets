@@ -9,15 +9,11 @@ This section explains **one-sided limits**, which tell us how a function behaves
 A **one-sided limit** looks at what value $f(x)$ approaches as $x$ gets close to a number $a$, but **only from one direction**.
 
 - **Left-hand limit**:
-  $$
-  \lim_{x \to a^-} f(x)
-  $$
+  $$\lim_{x \to a^-} f(x)$$
   This means: what does $f(x)$ approach as $x$ gets close to $a$ **from the left** (values less than $a$)?
 
 - **Right-hand limit**:
-  $$
-  \lim_{x \to a^+} f(x)
-  $$
+  $$\lim_{x \to a^+} f(x)$$
   This means: what does $f(x)$ approach as $x$ gets close to $a$ **from the right** (values greater than $a$)?
 
 ---
@@ -25,9 +21,7 @@ A **one-sided limit** looks at what value $f(x)$ approaches as $x$ gets close to
 ### **When Does the Limit Exist?**
 
 The full (two-sided) limit
-$$
-\lim_{x \to a} f(x)
-$$
+$$\lim_{x \to a} f(x)$$
 exists **only if**:
 
 - The left-hand limit $\lim_{x \to a^-} f(x)$ **exists**, and
