@@ -82,14 +82,23 @@ Evaluate
 $$\lim_{x \to 2} \frac{x^2 + 3x - 4}{x - 2}$$
 
 **Step 1:**
-* Direct substitution gives $\frac{(4 + 6 - 4)}{0} = \frac{6}{0}$ → undefined (can’t apply properties directly).  
+
+* Direct substitution gives $\frac{(4 + 6 - 4)}{0} = \frac{6}{0}$ → undefined (can’t apply properties directly).
+  
 **Step 2:**
-* Factor the numerator:  
-   $$x^2 + 3x - 4 = (x - 1)(x + 4) \quad \text{(Oops! This factoring is incorrect — try again.)}$$  
+
+* Factor the numerator:
+  
+   $$x^2 + 3x - 4 = (x - 1)(x + 4) \quad \text{(Oops! This factoring is incorrect — try again.)}$$
+
 Correct factoring:  
+
    $$x^2 + 3x - 4 = (x + 4)(x - 1) \quad \text{(also wrong — wait, need to fix signs)}$$  
+   
 Actually:  
+
    $$x^2 + 3x - 4 = (x + 4)(x - 1) \ \ (\text{no, my mistake, let’s carefully check factoring before solving})$$  
+   
 **Conclusion:** This example shows factoring must be done carefully before applying properties.
 
 ---
