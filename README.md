@@ -31,7 +31,7 @@ This repository will grow gradually as I move through the course. Some sections 
 
 - Markdown + Git for clean version control
 - LaTeX (when needed) for math notation
-- Diagrams drawn manually or with Desmos / graphing tools
+- Diagrams drawn manually or with Geogebra
 
 ---
 
