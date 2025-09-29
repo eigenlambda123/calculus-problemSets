@@ -5,7 +5,7 @@ This repository contains my organized solutions and study notes for the Calculus
 ## Resource Used
 
 All problems are taken from:
-**Paul Dawkins’ Calculus I** – Lamar University  
+**Paul Dawkins’ Calculus** – Lamar University  
 [https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
 
 ---
