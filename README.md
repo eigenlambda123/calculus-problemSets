@@ -15,7 +15,7 @@ All problems are taken from:
 Most problems are:
 - Solved **by hand** on paper
 - then typed using Markdown for  future reference
-- Accompanied by concise notes to clarify **why** a solution works
+- Accompanied by notes to clarify **why** a solution works
 
 The goal is **not speed**, but **mastery**—this is part of my long-term technical foundation building under my [Project10X Calculus](#) effort.
 
